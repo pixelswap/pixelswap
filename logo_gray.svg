@@ -1,0 +1,22 @@
+<svg width="49.99999999999999" height="49.99999999999999" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cd-svg-logo-gray-1{fill:#6e7a87;}</style>
+ </defs>
+ <title></title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="52" width="52" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_11" d="m44.17499,22.3l-6.6,-8.6l-0.3,-0.3a2.5,2.5 0 0 0 -1.7,-0.9l-3.5,-0.5a2.6,2.6 0 0 0 -1.9,0.5l-15.8,12.4a2.3,2.3 0 0 0 -0.4,3.2l0.5,0.6a2.3,2.3 0 0 0 3.2,0.4l14.9,-11.5a2.3,2.3 0 0 1 3.2,0.4l3.5,4.5a2.3,2.3 0 0 1 -0.4,3.2l-18.5,14.3a1.4,1.4 0 0 0 -0.3,1.9l0,0l4.6,5.9a0.6,0.6 0 0 0 1,-0.2l1.7,-5.4l0.3,-0.2l15.7,-12.2a2.9,2.9 0 0 0 1.1,-2l0.4,-3.2a3.2,3.2 0 0 0 -0.7,-2.3z" class="cd-svg-logo-gray-1"/>
+  <path id="svg_12" d="m36.57499,22.1l-1.2,-1.6a1.7,1.7 0 0 0 -2.4,-0.3l-15.8,12.4a1.7,1.7 0 0 1 -2.4,-0.3l-4.2,-5.4a1.7,1.7 0 0 1 0.3,-2.4l18.9,-14.7a1.3,1.3 0 0 0 0.5,-0.7a1,1 0 0 0 -0.1,-0.9a0.9,0.9 0 0 0 -0.6,-0.4l0,0l-5.5,-0.4a2.4,2.4 0 0 0 -1.7,0.5l-15.6,12.1a2.8,2.8 0 0 0 -1.1,1.9l-0.3,3.4a2.9,2.9 0 0 0 0.6,2.1l6.7,8.7l0.4,0.5a1.9,1.9 0 0 0 1.3,0.7l4,0.4a2,2 0 0 0 1.4,-0.4l16.5,-12.8a1.7,1.7 0 0 0 0.3,-2.4z" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_13" transform="rotate(51.5 18.3749942779541,-16.299999237060547) " ry="0.2" rx="0.2" height="1.23" width="1.2" y="-10.499999" x="41.67499" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_14" transform="rotate(51.5 17.174989700317383,-13.800000190734862) " ry="0.2" rx="0.2" height="1.37" width="1.4" y="-8.1" x="37.27499" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_15" transform="rotate(51.5 19.674997329711918,-18.299999237060547) " ry="0.2" rx="0.2" height="0.98" width="1" y="-11.999999" x="45.87499" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_16" transform="matrix(0.62,0.78,-0.78,0.62,13.53,-18.16) " ry="0.2" rx="0.2" height="0.86" width="0.9" y="1.06276" x="27.932165" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_17" transform="rotate(51.5 16.674989700317386,-16) " ry="0.2" rx="0.2" height="1.03" width="1" y="-11.7" x="38.87499" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_18" transform="rotate(51.5 16.07498741149902,-19.399999618530273) " ry="0.1" rx="0.1" height="0.69" width="0.7" y="-17.3" x="41.77499" class="cd-svg-logo-gray-1"/>
+  <rect id="svg_19" transform="rotate(51.5 16.3749885559082,-17.799999237060547) " ry="0.1" rx="0.1" height="0.78" width="0.8" y="-14.599999" x="40.47499" class="cd-svg-logo-gray-1"/>
+ </g>
+</svg>
