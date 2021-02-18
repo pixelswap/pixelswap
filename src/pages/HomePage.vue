@@ -9,12 +9,9 @@
           </div>
           大家是否还记得1983年任天堂的著名游戏《超级玛丽》里那个留着胡子的意大利水管工人,相信这个像素卡通形象在当年给人们留下了深刻的印象,也让我初识了像素图。
           <br><br>像素艺术的发展不是依赖科技,而是设计师的想象力和创造力,只要有生命力的设计作品,才能在充斥着各种文化的当下不断前进!像素艺术不止是怀旧,也可能是未来噢~
-          <br><br>PixelSwap 聚合NFT碎片合成、图灵算力挖矿、PixelSwap交易所、DaasCash算力稳定币等多重生态Defi协议矩阵于一体,致力于打造全网首个链上像素艺术创作平台。
+          <br><br>PixelSwap 聚合NFT碎片合成、图灵算力挖矿、PixelSwap交易所、PixelCash算力稳定币等多重生态Defi协议矩阵于一体,致力于打造全网首个链上像素艺术创作平台。
         </section>
         <div class="mario-arts">
-          <div class="mario-art">
-            <li class="mario-art--mushroom"></li>
-          </div>
           <div class="mario-art">
             <li class="mario-art--star"></li>
           </div>
@@ -69,7 +66,7 @@
               NFT抽奖
             </span>
             <div class="content">
-              <span>用户每天有一次免费抽取 NFT 碎片的机会,也可通过 PXL 代币抽奖,抽奖费用 20% 永久销毁, 30% 用于团队日常运营与开发, 50% 加入分红池,以实现 PXL 代币通缩. 另外,抽奖会产生算力,用于 PXL 代币算力挖矿.</span>
+              <span>用户可通过 PXL 代币抽奖,抽奖费用 70% 永久销毁, 30% 用于团队日常运营与开发,以实现 PXL 代币通缩. 另外,抽奖会产生算力,用于 PXL 代币图灵算力挖矿.</span>
               <!--              <i class="nes-charmander is-small"></i>-->
               <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
                 <image width="50" height="50" x="0" y="0" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAgMAAAAog1vUAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
@@ -88,9 +85,9 @@
               流动性挖矿
             </span>
             <div class="content">
-              <span>1、通过邀请新用户奖励的算力挖矿赚取 PXL 代币,当然只有受邀者认证后系统才会赠送邀请人算力,每位用户赠送3算力,上限300;</span>
-              <span>2、通过质押 PXL 代币挖矿赚取 PXL 代币,3倍收益;</span>
-              <span>3、通过抽奖 / 交易 PXL 代币产生的算力挖矿赚取 NFT 碎片,6倍收益;</span>
+              <span>1、通过质押 PXL 代币挖矿赚取 PXL 代币;</span>
+              <span>2、通过抽奖产生的算力挖矿赚取 NFT 碎片;</span>
+              <span>2、通过质押 PXL 代币挖矿赚取 PXC 稳定币;</span>
               <span>后续我们会支持更多玩法...</span>
               <i class="mining"></i>
             </div>
@@ -100,7 +97,7 @@
               NFT碎片与合成
             </span>
             <div class="content">
-              <span>NFT碎片用于合成限量 NFT,同时合约还会随机赠送稀有 NFT 碎片.</span>
+              <span>NFT碎片用于合成限量 NFT.</span>
               <!--              <i class="nes-kirby is-small"></i>-->
               <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
                 <image width="50" height="50" x="0" y="0" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIBAMAAACnw650AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
@@ -159,7 +156,7 @@
           <div class="content">
             <div class="description">
               <p>为回馈社区,我们决定开启创世兑换,创世兑换限量 12w 枚,创世兑换结束剩余未兑换代币全部销毁.
-                参与创世兑换的玩家,兑换金额高于 100HT 我们会随机赠送稀有 NFT 一枚.</p>
+                参与创世兑换的玩家,兑换金额高于 50HT 我们会随机赠送稀有 NFT 一枚.</p>
             </div>
             <div class="details">
               <div class="nes-container is-rounded with-title">
@@ -169,7 +166,7 @@
                     <span class="emoji">
                       <svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1994" width="32" height="32"><path d="M711.1 474.6c0 120.2-97.9 217.7-218.6 217.7-56.1 0-107.2-21-145.9-55.6l-98 108.9c64.7 57.8 150.2 93 244 93 201.8 0 365.5-162.9 365.5-364 0-201-163.6-364-365.5-364v146.2c120.6 0.1 218.5 97.6 218.5 217.8z" fill="#FFECB6" p-id="1995"></path><path d="M127 474.6c0 107.6 46.9 204.4 121.5 271l98-108.9c-44.6-39.9-72.7-97.7-72.7-162.1 0-120.2 97.9-217.7 218.6-217.7V110.7C290.6 110.7 127 273.6 127 474.6z" fill="#F4BA64" p-id="1996"></path><path d="M437.2 458c-19.5 0-35.3-15.8-35.3-35.2s15.9-35.2 35.3-35.2c19.5 0 35.3 15.8 35.3 35.2S456.7 458 437.2 458z m0-51.2c-8.9 0-16.1 7.2-16.1 16s7.2 16 16.1 16c8.9 0 16.1-7.2 16.1-16-0.1-8.9-7.3-16-16.1-16z" fill="#FFDB69" p-id="1997"></path><path d="M547.8 555.3c-19.5 0-35.3-15.8-35.3-35.2 0-19.4 15.9-35.2 35.3-35.2 19.5 0 35.3 15.8 35.3 35.2 0 19.4-15.8 35.2-35.3 35.2z m0-51.2c-8.9 0-16.1 7.2-16.1 16s7.2 16 16.1 16 16.1-7.2 16.1-16c-0.1-8.8-7.3-16-16.1-16z" fill="#F7931E" p-id="1998"></path><path d="M561.9 416.2l-131.1 131c-3.9 3.9-10.3 3.9-14.1 0-3.9-3.9-3.9-10.3 0-14.1l131-131.1c3.9-3.9 10.3-3.9 14.1 0 4 3.9 4 10.3 0.1 14.2z" fill="#F4BA64" p-id="1999"></path><path d="M523.9 837.1c-204.7 0-371.1-165.8-371.1-369.6S319.2 97.9 523.9 97.9c106.8 0 156.1 31.2 188.7 51.9l3.3 2.1c4.5 2.8 5.8 8.8 3 13.2-2.8 4.5-8.8 5.8-13.3 3l-3.4-2.1c-30.8-19.5-77.3-48.9-178.4-48.9-194 0-351.9 157.2-351.9 350.4s157.8 350.4 351.9 350.4 351.9-157.2 351.9-350.4c0-112.8-49.4-186-86.5-231.2-3.4-4.1-2.8-10.1 1.4-13.5 4.1-3.4 10.2-2.8 13.6 1.4 39 47.5 90.9 124.4 90.9 243.4-0.1 203.7-166.6 369.5-371.2 369.5z" fill="" p-id="2000"></path><path d="M747.2 193.9a9.6 9.6 0 1 0 19.2 0 9.6 9.6 0 1 0-19.2 0Z" fill="" p-id="2001"></path><path d="M354.1 612.4L218 748c70.3 70 167.4 113.4 274.5 113.4V669.6c-54 0-102.9-21.9-138.4-57.2z" fill="#F7931E" p-id="2002"></path></svg>
                     </span>
-                    兑换比例: <span>1HT : 3PXL</span>;
+                    兑换比例: <span>1HT : 10PXL</span>;
                   </p>
                   <p>
                     <span class="emoji">
@@ -187,13 +184,13 @@
                 </div>
               </div>
               <div class="nes-container is-rounded with-title">
-                <p class="title">超募轮</p>
+                <p class="title">公募轮</p>
                 <div class="content">
                   <p>
                     <span class="emoji">
                       <svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1994" width="32" height="32"><path d="M711.1 474.6c0 120.2-97.9 217.7-218.6 217.7-56.1 0-107.2-21-145.9-55.6l-98 108.9c64.7 57.8 150.2 93 244 93 201.8 0 365.5-162.9 365.5-364 0-201-163.6-364-365.5-364v146.2c120.6 0.1 218.5 97.6 218.5 217.8z" fill="#FFECB6" p-id="1995"></path><path d="M127 474.6c0 107.6 46.9 204.4 121.5 271l98-108.9c-44.6-39.9-72.7-97.7-72.7-162.1 0-120.2 97.9-217.7 218.6-217.7V110.7C290.6 110.7 127 273.6 127 474.6z" fill="#F4BA64" p-id="1996"></path><path d="M437.2 458c-19.5 0-35.3-15.8-35.3-35.2s15.9-35.2 35.3-35.2c19.5 0 35.3 15.8 35.3 35.2S456.7 458 437.2 458z m0-51.2c-8.9 0-16.1 7.2-16.1 16s7.2 16 16.1 16c8.9 0 16.1-7.2 16.1-16-0.1-8.9-7.3-16-16.1-16z" fill="#FFDB69" p-id="1997"></path><path d="M547.8 555.3c-19.5 0-35.3-15.8-35.3-35.2 0-19.4 15.9-35.2 35.3-35.2 19.5 0 35.3 15.8 35.3 35.2 0 19.4-15.8 35.2-35.3 35.2z m0-51.2c-8.9 0-16.1 7.2-16.1 16s7.2 16 16.1 16 16.1-7.2 16.1-16c-0.1-8.8-7.3-16-16.1-16z" fill="#F7931E" p-id="1998"></path><path d="M561.9 416.2l-131.1 131c-3.9 3.9-10.3 3.9-14.1 0-3.9-3.9-3.9-10.3 0-14.1l131-131.1c3.9-3.9 10.3-3.9 14.1 0 4 3.9 4 10.3 0.1 14.2z" fill="#F4BA64" p-id="1999"></path><path d="M523.9 837.1c-204.7 0-371.1-165.8-371.1-369.6S319.2 97.9 523.9 97.9c106.8 0 156.1 31.2 188.7 51.9l3.3 2.1c4.5 2.8 5.8 8.8 3 13.2-2.8 4.5-8.8 5.8-13.3 3l-3.4-2.1c-30.8-19.5-77.3-48.9-178.4-48.9-194 0-351.9 157.2-351.9 350.4s157.8 350.4 351.9 350.4 351.9-157.2 351.9-350.4c0-112.8-49.4-186-86.5-231.2-3.4-4.1-2.8-10.1 1.4-13.5 4.1-3.4 10.2-2.8 13.6 1.4 39 47.5 90.9 124.4 90.9 243.4-0.1 203.7-166.6 369.5-371.2 369.5z" fill="" p-id="2000"></path><path d="M747.2 193.9a9.6 9.6 0 1 0 19.2 0 9.6 9.6 0 1 0-19.2 0Z" fill="" p-id="2001"></path><path d="M354.1 612.4L218 748c70.3 70 167.4 113.4 274.5 113.4V669.6c-54 0-102.9-21.9-138.4-57.2z" fill="#F7931E" p-id="2002"></path></svg>
                     </span>
-                    兑换比例: <span>1HT : 1PXL</span>;
+                    兑换比例: <span>1HT : 6PXL</span>;
                   </p>
                   <p>
                     <span class="emoji">
@@ -236,7 +233,7 @@
           <div class="image"></div>
           <span class="title">团队介绍</span>
         </div>
-        团队由早期火币交易所开发者组建,致力于打造全网首个聚合NFT碎片合成、图灵算力挖矿、PixelSwap交易所、DaasCash算力稳定币等多种玩法的链上像素艺术创作平台。
+        团队由早期火币交易所开发者组建,致力于打造全网首个聚合NFT碎片合成、图灵算力挖矿、PixelSwap交易所、PixelCash算力稳定币等多种玩法的链上像素艺术创作平台。
       </div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#242431" fill-opacity="1" d="M0,64L48,96C96,128,192,192,288,186.7C384,181,480,107,576,74.7C672,43,768,53,864,69.3C960,85,1056,107,1152,112C1248,117,1344,107,1392,101.3L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
     </div>
@@ -245,7 +242,7 @@
 
 <script>
     export default {
-        name: 'PageName',
+        name: 'HomePage',
         components: {
         }
     }
@@ -368,13 +365,6 @@
     display: inline-block; /*将span当做块级元素对待*/
     overflow: hidden; /*超出宽度部分隐藏*/
     text-overflow: ellipsis; /*超出部分以点号代替*/
-  }
-
-  .overview .mario-art .mario-art--mushroom {
-    position: absolute;
-    bottom: 20%;
-    right: 10%;
-    transform: scale(.45);
   }
 
   .overview .mario-art .mario-art--star {
@@ -513,7 +503,7 @@
   .cf-container > .content .details {
     width: 50%;
     min-height: 400px;
-    background-image: url("https://cdn.jsdelivr.net/gh/pixelswap/pixelswap@v1.0.0/cf_details.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/pixelswap/pixelswap@v1.0.0/crowdfunding.png");
     background-repeat: no-repeat;
     background-size: 100% auto;
     -moz-background-size: 100% auto;

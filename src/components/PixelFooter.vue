@@ -10,7 +10,7 @@
       <a href="https://github.com/pixelswap" target="_blank" class="pl">PixelSwap</a>
       <span class="pr pl">/</span>
 <!--      <i class="snes-jp-logo"></i>-->
-      <span>Paas Cash</span>
+      <span>PixelCash</span>
     </div>
   </footer>
 </template>

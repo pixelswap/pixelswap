@@ -186,7 +186,6 @@
     background-color: #ffd700;
     border-radius: 5px;
     display: table;
-    width: 100%;
   }
 
   .navbar-container ul {
