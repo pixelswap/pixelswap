@@ -1,7 +1,7 @@
 <template>
   <main class="main-content">
     <div class="sys-info">
-      <img src="../../public/logo_gray.svg">
+      <img src="public/favicon_gray.svg">
       <div class="sys-name">
         <div class="line-circle">
           <span class="left"></span>
